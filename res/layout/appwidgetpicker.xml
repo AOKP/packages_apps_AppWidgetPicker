@@ -26,7 +26,8 @@
       android:layout_marginBottom="2dip"
       android:orientation="vertical">
     
-      <TextView android:id="@+id/appwidgetpicker_textview"
+      <TextView 
+        android:id="@+id/appwidgetpicker_textview"
         android:layout_width="fill_parent" 
         android:layout_height="wrap_content"
         android:textColor="#FFF"
