@@ -28,7 +28,7 @@
     
 	    <TextView
 	    	android:id="@+id/appwidgetpicker_textview"
-		   	android:layout_width="fill_parent" 
+	    	android:layout_width="fill_parent" 
 	        android:layout_height="wrap_content"
 	        android:textColor="#FFF"
 	        android:textSize="20dip" />
