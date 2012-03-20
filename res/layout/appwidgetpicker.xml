@@ -17,14 +17,14 @@
 	    android:layout_height="48dip" />
     
 	<LinearLayout 
-    	android:layout_width="fill_parent" 
+		android:layout_width="fill_parent" 
 		android:layout_height="wrap_content"
 		android:layout_toRightOf="@id/appwidgetpicker_imageview" 
-    	android:layout_centerVertical="true"
-	   	android:layout_marginLeft="10dip"
-    	android:layout_marginTop="2dip"
-    	android:layout_marginBottom="2dip"
-    	android:orientation="vertical">
+		android:layout_centerVertical="true"
+		android:layout_marginLeft="10dip"
+		android:layout_marginTop="2dip"
+		android:layout_marginBottom="2dip"
+		android:orientation="vertical">
     
 	    <TextView
 	    	android:id="@+id/appwidgetpicker_textview"
