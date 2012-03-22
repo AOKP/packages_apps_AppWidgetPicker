@@ -26,8 +26,7 @@
         <activity 
           android:theme="@android:style/Theme.Holo.Wallpaper"
           android:name="AppWidgetPickerActivity" 
-          android:label="AppWidgetPicker" 
-          android:theme="@android:style/Theme.Dialog">
+          android:label="AppWidgetPicker" >
           
           <intent-filter android:priority="999" >
             <action android:name="android.appwidget.action.APPWIDGET_PICK" />
