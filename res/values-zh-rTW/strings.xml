@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppWidgetPicker</string>
+    <string name="widget_picker_title">選擇小工具</string>
+    <string name="widget_count">（共 %d 種）</string>
+</resources>
