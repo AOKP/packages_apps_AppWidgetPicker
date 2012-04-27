@@ -1,0 +1,8 @@
+Change-Id: Iece9fbaba57132fd96fa39caab9049d99c775475
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Fri, 27 Apr 2012 15:25:46 -0500
+Reviewed-on: http://gerrit.sudoservers.com/355
+Project: AOKP/packages_apps_AppWidgetPicker
+Branch: refs/heads/ics
